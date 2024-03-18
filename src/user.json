@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Brad Pitt",
+      "dob": "1963-12-18",
+      "gender": "Male",
+      "country": "United States",
+      "description": "Actor and film producer"
+    },
+    {
+      "name": "Angelina Jolie",
+      "dob": "1975-06-04",
+      "gender": "Female",
+      "country": "United States",
+      "description": "Actress, filmmaker, and humanitarian"
+    },
+    {
+      "name": "Leonardo DiCaprio",
+      "dob": "1974-11-11",
+      "gender": "Male",
+      "country": "United States",
+      "description": "Actor and film producer"
+    },
+    {
+      "name": "Jennifer Aniston",
+      "dob": "1969-02-11",
+      "gender": "Female",
+      "country": "United States",
+      "description": "Actress and producer"
+    },
+    {
+      "name": "Tom Cruise",
+      "dob": "1962-07-03",
+      "gender": "Male",
+      "country": "United States",
+      "description": "Actor and film producer"
+    },
+    {
+      "name": "Emma Watson",
+      "dob": "1990-04-15",
+      "gender": "Female",
+      "country": "United Kingdom",
+      "description": "Actress and activist"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "dob": "1965-04-04",
+      "gender": "Male",
+      "country": "United States",
+      "description": "Actor and producer"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "dob": "1984-11-22",
+      "gender": "Female",
+      "country": "United States",
+      "description": "Actress and singer"
+    },
+    {
+      "name": "Will Smith",
+      "dob": "1968-09-25",
+      "gender": "Male",
+      "country": "United States",
+      "description": "Actor, producer, and rapper"
+    },
+    {
+      "name": "Margot Robbie",
+      "dob": "1990-07-02",
+      "gender": "Female",
+      "country": "Australia",
+      "description": "Actress and film producer"
+    }
+  ]
+  
